@@ -153,21 +153,70 @@ const sasuka = {
 
 ## ⚔️ What I Do
 
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+🏗️<br/>
+<b>Architecture</b><br/>
+<sub>Design & build scalable<br/>microservice systems</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+⚡<br/>
+<b>Performance</b><br/>
+<sub>Optimize high-throughput<br/>real-time processing</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+🔄<br/>
+<b>Event-Driven</b><br/>
+<sub>Message queues &<br/>async patterns</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+🛡️<br/>
+<b>Security</b><br/>
+<sub>Rate limiting, RBAC<br/>& access control</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<br/>
+🐳<br/>
+<b>DevOps</b><br/>
+<sub>Containerize & automate<br/>CI/CD pipelines</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+📊<br/>
+<b>Observability</b><br/>
+<sub>Monitoring dashboards<br/>& centralized logging</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+🧪<br/>
+<b>Testing</b><br/>
+<sub>Catch bugs before<br/>they hit production</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+📖<br/>
+<b>Documentation</b><br/>
+<sub>Swagger, ADRs &<br/>living docs</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
 
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   🏗️  Design & build scalable microservice architectures            │
-  │   ⚡  Optimize high-throughput real-time systems                     │
-  │   🔄  Implement event-driven & message queue patterns               │
-  │   🛡️  Enforce security, rate limiting & access control              │
-  │   🐳  Containerize & automate CI/CD pipelines                       │
-  │   📊  Build monitoring dashboards & centralized logging             │
-  │   🧪  Write tests that actually catch bugs before production        │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 <br/>
 
@@ -193,7 +242,7 @@ const sasuka = {
 
 <!-- Streak Stats -->
 <a href="https://github.com/sasuka24563">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasuka24563&theme=midnight-purple&background=0d1117&border=6c3baa&stroke=6c3baa&ring=c084fc&fire=e9d5ff&currStreakLabel=c084fc&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=8b949e&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sasuka24563&theme=midnight-purple&background=0d1117&border=6c3baa&stroke=6c3baa&ring=c084fc&fire=e9d5ff&currStreakLabel=c084fc&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=8b949e&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -211,7 +260,7 @@ const sasuka = {
 <!-- ░░░░░░░░░░░░░░░░░░ CODING METRICS SECTION ░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## 🕐 Weekly Coding Breakdown *(mock)*
+## 🕐 Weekly Coding Breakdown
 
 ```text
 TypeScript    18 hrs 42 mins  ██████████████████░░░░░░░  72.3%
@@ -225,23 +274,7 @@ Other              20 mins    ░░░░░░░░░░░░░░░░�
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░ CONTRIBUTION SNAKE ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sasuka24563/sasuka24563/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasuka24563/sasuka24563/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sasuka24563/sasuka24563/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░ TROPHY SECTION ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
